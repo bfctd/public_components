@@ -1,0 +1,15 @@
+<div class="m-bz-tab">
+
+</div>
+<script>
+    export default {
+        data(){
+            return{
+
+            }
+        }
+    }
+</script>
+<style lang="less" scoped>
+
+</style>

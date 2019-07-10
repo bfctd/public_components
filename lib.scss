@@ -1,0 +1,6 @@
+@mixin bgImage($w:10px,$url:"",$color:green) {
+  width: $w;
+  height: $w;
+  background: url($url) no-repeat $color;
+  background-size: 100% auto;
+}
